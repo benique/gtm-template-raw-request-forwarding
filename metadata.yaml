@@ -2,7 +2,7 @@ homepage: "https://marketvision.ch"
 documentation: "https://marketvision.ch/raw-request-forwarding/"
 versions:
   # Latest version
-  - sha: 2aaa534b3ed8e8437a2fc16b08dd8b7d611c67f1
+  - sha: a006f45747703c32e23768dd2fe0e3e137cfa425
     changeNotes: Fixed wait_for_update
   # Older versions
   - sha: 7379a75a5be074e0ae7a1929055d34d0d75e0d10
